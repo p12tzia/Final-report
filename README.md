@@ -1,7 +1,16 @@
-## Welcome to GitHub Pages
-**Μάθημα: Τεχνολογία Λογισμικού**
-===========
-Εργασία: Οπτικοποίηση δεδομένων Χορηγιών (UK)
+## Μάθημα Τεχνολογία Λογισμικού(SW)
+
+-Ονοματεπώνυμο: Τζιάκου Ιωάννα
+-Αριθμός μητρώου: Π2012087
+-Email:p12tzia@ionio.gr
+-Θέμα εργάσίας: Οπτικοποίηση δεδομένων χορηγιών(UK)
+-Προσωπικό αποθετήριο του κώδικα:https://github.com/p12tzia/D3js-uk-political-donations
+-Αποθετήριο 1ου Παραδοτέου:https://github.com/p12tzia/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1
+-Αποθετήριο 2ου Παραδοτέου:https://github.com/p12tzia/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2
+-Link εκτελέσιμου εφαρμογής: https://p12tzia.github.io/D3js-uk-political-donations/
+
+
+
 
 ### Markdown
 
