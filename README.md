@@ -4,42 +4,18 @@
 * Αριθμός μητρώου: Π2012087
 * Email:p12tzia@ionio.gr
 * Θέμα εργάσίας: Οπτικοποίηση δεδομένων χορηγιών(UK)
-* Προσωπικό αποθετήριο του κώδικα:https://github.com/p12tzia/D3js-uk-political-donations
-* Αποθετήριο 1ου Παραδοτέου:https://github.com/p12tzia/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1
-* Αποθετήριο 2ου Παραδοτέου:https://github.com/p12tzia/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2
+* Προσωπικό αποθετήριο του κώδικα:[Link αποθετηρίου](https://github.com/p12tzia/D3js-uk-political-donations)
+* Αποθετήριο 1ου Παραδοτέου:[1ο Παραδοτέο](https://github.com/p12tzia/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1)
+* Αποθετήριο 2ου Παραδοτέου:[2ο Παραδοτέο](https://github.com/p12tzia/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2)
 * Link εκτελέσιμου εφαρμογής: https://p12tzia.github.io/D3js-uk-political-donations/
 
+## Εισάγωγη
+Η παρούσα εργασία αναφέρεται στον τρόπο με τον οποίο μπορούμε να οπτικοποιήσουμε δεδομένα με την βοήθεια της D3 βιβλιοθήκης της javascript. Συγκεκριμένα παρουσιάζονται τα δεδομένα των δωρεών που έγιναν σε πολιτικά κόμματα του Ηνωμένου Βασιλείου, την περίοδο των εκλογών 2010-2013.Σκοπός είναι να εξοικειωθούμε με το συγκεκριμένο εργαλείο της javascript καθώς και με άλλες βιβλιοθήκες της αλλά και με τις γλώσσες HTLM, CSS. Η συγκεκριμένη βιβλιοθήκη υπερτερεί για το γεγονός ότι μπορεί να προσαρμόσει στοιχεία html στις ανάγκες χρηστών με προβλήματα όρασης ή ακοής έτσι ώστε να διευκολυνθεί η πλοήγηση σε έναν ιστότοπο. 
+
+## Σύνοψη
+Η όλη διαδικασία έχει ως σκοπό την παραμετροποίηση του κώδικα που έχει δοθεί από τον διδάσκοντα μέσω github, προκειμένου να απαντηθούν τα ζητούμενα της εργασίας. Η εργασία χωρίζεται σε δύο κύρια παραδοτέα. Το πρώτο είχε να κάνει με την την αλλαγή χρωμάτων στις μπάλες των οπτικοποιημένων δεδομένων, με την προσθήκη φωτογραφιών .ico(42x42) για τους δωρητές, με την προσθήκη ήχου στα button του μενού πλοήγησης, με την μεγέθυνση κειμένου αλλά και με την την αναπαραγωγή ήχου, διαβάζοντας το όνομα του δωρητή και το ποσό της δωρεάς, όταν το ποντίκι βρισκόταν πάνω από μια μπάλα. Το δεύτερο παραδοτέο είχε να κάνει με την δημιουργία ενός ακόμη D3 γραφήματος, με την δημιουργία του ίδιου D3 γραφήματος αλλά με διαφορετικά στατιστικά δεδομένα, με το ιστορικό των φωτογραφιών όταν το ποντίκι περνάει πάνω απο τους κύκλους, με την συγγραφή κώδικα προκειμένου να πρσθέσουμε κίνηση στα στοιχεία μας (github username & picture) αλλά και με την δημιουργία μια σελίδας για την άντληση στατιστικών δεδομένων από κάθε δημόσιο αποθετήριο δυναμικά.
 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p12tzia/Final-report/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
